@@ -1,13 +1,12 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: HỌC place - Nơi Bạn Học Mọi Thứ
+email: hocbaicungcon@gmail.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
+  HỌC place - Nơi Bạn Học Mọi Thứ
 lang: en-US
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
+url: https://hoc.place # the base hostname & protocol for your site
 git_address: https://github.com/aksakalli/jekyll-doc-theme
 git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
 
