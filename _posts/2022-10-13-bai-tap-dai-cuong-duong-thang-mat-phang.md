@@ -2,6 +2,7 @@
 layout: post
 title: Bài tập Đại cương về đường thẳng và mặt phẳng
 author: sloth
+use_math: true
 ---
 ## Bài toán 1. Tìm giao tuyến của hai mặt phẳng $ (P) $ và $ (Q) $
 
