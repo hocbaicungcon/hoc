@@ -1,6 +1,6 @@
 ---
 title: Phương trình lượng giác thường gặp
-permalink: /docs/toan11/
+permalink: /docs/toan11/phuong_trinh_thuong_gap/
 ---
 
 ## Kiến thức cơ bản
