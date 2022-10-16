@@ -5,7 +5,6 @@ author: sloth
 categories: [ Toán 11, Lượng giác ]
 image: assets/images/home.jpg
 tags: [sticky]
-usemathjax: true
 ---
 
 ## Kiến thức cơ bản
