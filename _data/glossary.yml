@@ -1,0 +1,15 @@
+- term: a_term_name           # Can contain spaces
+  definition: A description of the term
+  url: https://jekyllrb.com/  # Is optional
+- term: another term
+  definition: Some other term definition text
+
+
+- term: Jekyll
+  definition: A Static Site Generator (SSG) built with ruby. Widely adopted as of GitHub Pages inclusion.
+  url: https://jekyllrb.com/
+- term: SSG
+  definition: A Static Site Generator compiles the website before deployment. Then the generated web content is simply retrieved as-is by the client without any code running at retrieve time.
+- term: Jamstack
+  definition: JavaScript + API + Markup - a way of buildin and hosting websites.
+  url: https://jamstack.org/
