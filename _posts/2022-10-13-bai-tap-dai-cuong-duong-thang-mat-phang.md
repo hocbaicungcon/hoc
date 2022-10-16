@@ -17,7 +17,7 @@ Phương pháp: Ta chỉ ra hai điểm chung khác nhau} của hai mặt phẳn
 - Để tìm điểm chung của hai mặt phẳng ta chú ý tới tên gọi của chúng.
 - Thường phải mở rộng} mặt phẳng, tức là kéo dài các đường thẳng trong mặt phẳng đó.
 
-**Ví dụ 1.** Cho {% glossary tứ diện %} $ABCD$ có $ I $ là trung điểm của $ BD. $ Gọi $ E,F $ lần lượt là trọng tâm tam giác $ ABD,CBD. $ Tìm giao tuyến của hai mặt phẳng $ (IEF) $ và $ (ABC). $
+**Ví dụ 1.** Cho tứ diện $ABCD$ có $ I $ là trung điểm của $ BD. $ Gọi $ E,F $ lần lượt là trọng tâm tam giác $ ABD,CBD. $ Tìm giao tuyến của hai mặt phẳng $ (IEF) $ và $ (ABC). $
 
 **Ví dụ 2.** Cho hình chóp $ S.ABCD $. Đáy $ABCD$ có $ AB $ cắt $ CD $ tại $ E, AC$ cắt $ BD $ tại $ F. $ Xác định giao tuyến của hai mặt phẳng $ (SAB) $ và $ (SCD),(SAC) $ và $ (SBD). $ Xác định giao tuyến của hai mặt phẳng $ (SEF) $ và $ (SAD), (SBC). $
 
