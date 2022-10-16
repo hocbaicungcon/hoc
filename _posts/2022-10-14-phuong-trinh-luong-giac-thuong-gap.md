@@ -3,7 +3,7 @@ layout: post
 title:  "Phương trình lượng giác thường gặp"
 author: sloth
 categories: [ Toán 11, Lượng giác ]
-image: assets/images/home.jpg
+image: assets/images/fractal.webp
 tags: [sticky]
 ---
 
