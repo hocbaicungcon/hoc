@@ -58,6 +58,9 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
+# Build settings
+markdown: kramdown
+
 # Paginate
 paginate: 10
 
