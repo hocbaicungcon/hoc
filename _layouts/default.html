@@ -30,7 +30,9 @@
     crossorigin="anonymous"></script>
 
     {% include tracking-header.html %}
-
+    {% if page.use_math %}
+    {% include mathjax.html %}
+    {% endif %}
 
 </head>
 

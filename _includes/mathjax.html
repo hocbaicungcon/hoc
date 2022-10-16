@@ -1,0 +1,46 @@
+<!-- 
+1. Tạo file mathjax.html trong folder _includes có nội dung như phần cuối của file này
+
+2. Thêm dòng sau vào file _includes/head.html trước thẻ </head> 
+
+{% if page.use_math %}
+    {% include mathjax.html %}
+{% endif %}
+
+
+3. Trong file _config.yml, thêm vào 2 dòng sau:
+
+# Build settings
+markdown: kramdown
+
+
+4. Trong mỗi post, ở phần đầu thêm dòng sau nếu muốn dùng mathjax, k thì thôi:
+
+usemathjax: true
+
+
+-->
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    tex2jax: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+    processEscapes: true,
+  }
+});
+MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
+    alert("Math Processing Error: "+message[1]);
+  });
+MathJax.Hub.Register.MessageHook("TeX Jax - parse error",function (message) {
+    alert("Math Processing Error: "+message[1]);
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
