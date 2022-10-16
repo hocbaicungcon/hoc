@@ -1,23 +1,23 @@
-# Jekyll Theme - Mundana by WowThemes.net
+# Jekyll Theme - HOC.place by WowThemes.net
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
-[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp; 
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
+[Live Demo](https://wowthemesnet.github.io/HOC.place-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/HOC.place-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/HOC.place-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/HOC.place-wordpress/) 
 
-![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
+![HOC.place jekyll theme screenshot](assets/images/screenshot.jpg)
 
 ### Documentation
 
-[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/HOC.place-theme-jekyll/)
 
-### Contribute to Mundana repository
+### Contribute to HOC.place repository
 
 1. In the top-right corner of this page, click **Fork**.
 
 2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
 
-   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
+   `git clone https://github.com/YOUR-USERNAME/HOC.place-theme-jekyll.git`
 
 3. **Create a branch**: 
 
@@ -48,4 +48,4 @@ Theme designed and developed by [sloth](https://www.wowthemes.net), *free* under
 
 ### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Live Demo](https://wowthemesnet.github.io/HOC.place-theme-jekyll/)
