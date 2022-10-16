@@ -11,6 +11,19 @@ tags: [sticky]
 
 ### 1. Phương trình bậc hai, bậc ba đối với một hàm số lượng giác:
 
+Thử tính năng tooltip xem sao {% glossary jekyll %} in a blog post.
+
+The term name can contain spaces like {% glossary operating system %}.
+
+Even if the term is defined in _data/glossary.yml as 'term_name', the matching is case-insensitive meaning that I can look it up using {% glossary TeRM_NaME %}. Note that the term is displayed as defined in the tag rather than the definition, here meaing 'TeRM_NaME'.
+
+The case-styling above works as there's still a case-insensitive match. But what about when you actually want to dispaly the term differently? Maybe the term is defined as "cat" but you want to use the plural "cats"? Then you can supply an optional `display` argument. The syntax is:
+{% glossary <term>, display: <diplay name> %}
+
+This could be e.g.
+{% glossary cat, display: cats %}
+{% glossary some term, display: some other display text %}
+
 Ta cần chú ý các công thức sau:
 
 -   $\sin^2x =1 - \cos^2x, \cos^2x =  1 - \sin^2x;$
