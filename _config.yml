@@ -17,8 +17,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-glossary_tooltip
-  
+    
 authors:
     sloth:
       name:           Sloth
@@ -68,3 +67,8 @@ paginate: 10
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+collections:
+- 'tứ diện': 'là hình có 4 mặt là 4 tam giác (4 đỉnh không đồng phẳng)'
+  glossary:
+    output: true
