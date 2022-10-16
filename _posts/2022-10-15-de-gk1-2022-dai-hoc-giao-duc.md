@@ -20,7 +20,7 @@ B. Trong mặt phẳng tọa độ $O x y$, tập hợp các điểm có tọa �
 C. Nghiệm của bất phương trình $a x+b y \leq c$ là tập rỗng.
 
 D. Trong mặt phẳng tọa độ $O x y$, tập hợp các điểm có tọa độ là nghiệm của hệ bất phương trình bậc nhất hai ẩn không là miền nghiệm của hệ bất phương trình đó.
-**Câu 3.** Điểm nào sau đây thuộc miền nghiệm của hệ bất phương trình $\left\{\begin{array}{l}-x+2 y-1 \geq 0 \\ 3 x+4 y-2<0\end{array}\right.$ ?
+**Câu 3.** Điểm nào sau đây thuộc miền nghiệm của hệ bất phương trình $\Bigg\{\begin{array}{l}-x+2 y-1 \geq 0 \\ 3 x+4 y-2<0\end{array}$ ?
 A. $(0 ;-1)$.
 
 B. $(2 ;-1)$.
@@ -39,15 +39,15 @@ C. Bạn học lớp nào?
 
 D. Toán học thật thú vị!
 
-**Câu 5.** Liệt kê các phần tử của tập hợp $A=\left\{x \in \mathbb{N} \mid(x+3)\left(3 x^2-4 x+1\right)=0\right\}$.
+**Câu 5.** Liệt kê các phần tử của tập hợp $A=\big\{x \in \mathbb{N} \mid(x+3)\left(3 x^2-4 x+1\right)=0\big\}$.
 
-A. $A=\left\{-3 ; 1 ; \frac{1}{3}\right\}$.
+A. $A=\big\{-3 ; 1 ; \frac{1}{3}\big\}$.
 
-B. $A=\{-3 ; 1\}$.
+B. $A=\big\{-3 ; 1\big\}$.
 
-C. $A=\left\{1 ; \frac{1}{3}\right\}$.
+C. $A=\big\{1 ; \frac{1}{3}\big\}$.
 
-D. $A=\{1\}$.
+D. $A=\big\{1\big\}$.
 
 **Câu 6.** Trong các đẳng thức sau đây, đẳng thức nào đúng?
 
@@ -78,7 +78,7 @@ C. $6 x+y<0$.
 
 D. $6 x+y>0$.
 
-**Câu 9.** Giá quảng cáo trên FM91 là 10 triệu đồng cho 15 giây trên một lần quảng cáo trong khung giờ vàng từ $16 \mathrm{~h} 30$ đến $19 \mathrm{~h}$ và 2 triệu đồng cho 15 giây một lần quảng cáo vào khoảng $19 \mathrm{~h}$ đến $21 \mathrm{~h}$. Một công ty dự định chi không quá 300 triệu đồng để quảng cáo trên FM91 yêu cầu: Có ít nhất 10 lần quảng cáo trong cung giờ vàng và nhiều nhất 50 lần quảng cáo trên cung giờ thường. Tìm tổng số quảng cáo là lớn nhất?
+**Câu 9.** Giá quảng cáo trên FM91 là 10 triệu đồng cho 15 giây trên một lần quảng cáo trong khung giờ vàng từ $16\mathrm{~h} 30$ đến $19 \mathrm{~h}$ và 2 triệu đồng cho 15 giây một lần quảng cáo vào khoảng $19 \mathrm{~h}$ đến $21 \mathrm{~h}$. Một công ty dự định chi không quá 300 triệu đồng để quảng cáo trên FM91 yêu cầu: Có ít nhất 10 lần quảng cáo trong cung giờ vàng và nhiều nhất 50 lần quảng cáo trên cung giờ thường. Tìm tổng số quảng cáo là lớn nhất?
 
 A. 80 quảng cáo.
 
@@ -122,7 +122,7 @@ D. $2 \sqrt{3}$.
 
 **Câu 13.** Gọi $\left(x_0 ; y_0 ; z_0\right)$ là nghiệm của hệ phương trình: 
 $$
-\left\{\begin{array}{l}2 x+y-z=10 \\ 5 x-4 y+2 z=10\\ 3 x-y+5 z=14\end{array}\right.
+\begin{cases}2 x+y-z=10 \\ 5 x-4 y+2 z=10\\ 3 x-y+5 z=14\end{cases}
 $$
 Tính giá trị biểu thức $P=x_0^2+y_0^2-z_0^2$.
 
@@ -173,7 +173,7 @@ D. Giá của hai véctơ song song hoặc trùng nhau.
 
 **Bài 2.** (2 điểm)
 
-1. Biểu diễn miền nghiệm của hệ $\left\{\begin{array}{l}x \geq 0 \\ y \geq 0 \\ x+2 y \leq 6\end{array}\right.$ trên mặt phẳng
+1. Biểu diễn miền nghiệm của hệ $\begin{cases}x \geq 0 \\ y \geq 0 \\ x+2 y \leq 6\end{cases}$ trên mặt phẳng
 2. Từ đó tìm giá trị nhỏ nhất của biểu thức $F(x ; y)=2 x-y$, với $(x ; y)$ thỏa mãn hệ ở trên.
 
 **Bài 3.** (2 điểm) Cho tam giác $A B C$ biết $A B=5, A C=6, \cos \widehat{B A C}=-\frac{\sqrt{3}}{2}$.
