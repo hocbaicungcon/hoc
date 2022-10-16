@@ -58,13 +58,14 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 
-# Build settings
-markdown: kramdown
+# # Build settings
+# markdown: kramdown
 
 # Paginate
 paginate: 10
 
-
+plugins:
+  - jekyll-glossary_tooltip
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
