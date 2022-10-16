@@ -1,58 +1,65 @@
-# Site settings
-title: HỌC place
-email: hocbaicungcon@gmail.com
-description: >
-  HỌC place - Nơi Bạn Học Mọi Thứ
-lang: en-US
+# Site
+name: 'HỌC place'
+description: 'HỌC place - Nơi Bạn Học Mọi Thứ.'
+logo: 'assets/images/hoc.png'
+favicon: 'assets/images/hoc.png'
+baseurl: ''
+# disqus: 'demowebsite'
+email: 'hocbaicungcon@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-git_address: https://github.com/hocbaicungcon/hoc
-git_edit_address: https://github.com/hocbaicungcon/hoc/blob/gh-pages
+include: ["_pages"]
+permalink: /:title/
 
-# theme options from https://bootswatch.com/3/
-# comment out this to use default Bootstrap
-bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    sloth:
+      name:           sloth
+      site:           https://amthanhnhapkhau.com.vn/
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hi, I am sloth, the author of HỌC.place. I hope you like it!"
+      email:          wowthemesnet@gmail.com
+      # twitter:        https://twitter.com/wowthemesnet
 
-# Build settings
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sloth
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
 markdown: kramdown
 highlighter: rouge
-# Plugins (previously gems:)
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - .idea/
-  - .gitignore
-  - README.md
-  - vendor
-timezone: Europe/Berlin
-defaults:
-- scope:
-    path: _posts
-    type: posts
-  values:
-    layout: post
-    sectionid: blog
+# Paginate
+paginate: 10
 
-- scope:
-    path: _docs
-    type: docs
-  values:
-    layout: docs
-    sectionid: docs
-    seo:
-      type: "WebPage"
 
-collections:
-  docs:
-    permalink: /:collection/:path/
-    output: true
-  posts:
-    permalink: /blog/:year/:month/:day/:title/
-    output: true
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
