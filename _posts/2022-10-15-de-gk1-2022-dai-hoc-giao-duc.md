@@ -22,7 +22,7 @@ B. Trong mặt phẳng tọa độ $O x y$, tập hợp các điểm có tọa �
 C. Nghiệm của bất phương trình $a x+b y \leq c$ là tập rỗng.
 
 D. Trong mặt phẳng tọa độ $O x y$, tập hợp các điểm có tọa độ là nghiệm của hệ bất phương trình bậc nhất hai ẩn không là miền nghiệm của hệ bất phương trình đó.
-**Câu 3.** Điểm nào sau đây thuộc miền nghiệm của hệ bất phương trình $\Bigg\{\begin{array}{l}-x+2 y-1 \geq 0 \\ 3 x+4 y-2<0\end{array}$ ?
+**Câu 3.** Điểm nào sau đây thuộc miền nghiệm của hệ bất phương trình $\begin{cases}-x+2 y-1 \geq 0 \\ 3 x+4 y-2<0\end{cases}$ ?
 A. $(0 ;-1)$.
 
 B. $(2 ;-1)$.
@@ -41,7 +41,7 @@ C. Bạn học lớp nào?
 
 D. Toán học thật thú vị!
 
-**Câu 5.** Liệt kê các phần tử của tập hợp $A=\big\{x \in \mathbb{N} \mid(x+3)\left(3 x^2-4 x+1\right)=0\big\}$.
+**Câu 5.** Liệt kê các phần tử của tập hợp $A=\left\\{x \in \mathbb{N} \mid(x+3)\left(3 x^2-4 x+1\right)=0\right\\}$.
 
 A. $A=\big\{-3 ; 1 ; \frac{1}{3}\big\}$.
 
