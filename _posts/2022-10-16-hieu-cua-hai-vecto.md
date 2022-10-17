@@ -34,6 +34,8 @@ Nhận xét:
 $$
 \overrightarrow{OA}+\overrightarrow{OB}+\overrightarrow{OC}+\overrightarrow{OD}=\vec{0}.
 $$
+
+
 **Ví dụ 4.** Cho tam giác $ABC$ có trọng tâm $G$. Gọi $M$ là trung điểm $BC$ và $D$
 đối xứng với $G$ qua $M$. Chứng minh:
 
@@ -46,6 +48,8 @@ Hiệu của hai véctơ $\vec{a}$ và $\vec{b}$ là tổng của $\vec{a}$ và 
 $$
 \vec{a}-\vec{b}=\vec{a}+(-\vec{b}).
 $$
+
+
 **Ví dụ 5.** Cho hình chữ nhật $ABCD$ có $AB=3$, $AD=4.$ Dựng và tính độ dài của
 véctơ $\overrightarrow{AB} - \overrightarrow{AD}, \quad \overrightarrow{CA} - \overrightarrow{AB}.$
 
@@ -59,6 +63,8 @@ $$
 $$
 \overrightarrow{OD} + \overrightarrow{OC} =\overrightarrow{AD}+\overrightarrow{BC}.
 $$
+
+
 **Ví dụ 9.** Tam giác $ABC$ có $M,N,P$ lần lượt là trung điểm của $BC, CA, AB$ và
 điểm $O$ tuỳ ý. Chứng minh: 
 
@@ -84,8 +90,8 @@ $$
 **Ví dụ 12.** Cho hai điểm $A$ và $B$ phân biệt, có thể tìm được điểm $M$ thoả mãn một
 trong các điều kiện sau hay không?
 
-1.  $\overrightarrow{{MA}}{-}\overrightarrow{{MB}}=\overrightarrow{{AB }}$;
+1.  $\overrightarrow{MA}-\overrightarrow{MB}=\overrightarrow{AB}$;
 
-2.  $\overrightarrow{{MA}}{-}\overrightarrow{{MB}}=\overrightarrow{{BA}}$;
+2.  $\overrightarrow{MA}-\overrightarrow{MB}=\overrightarrow{BA}$;
 
-3.  $\overrightarrow{{MA}}+\overrightarrow{{MB}}=\overrightarrow{{{{0}}^{{}}}}$.
+3.  $\overrightarrow{MA}+\overrightarrow{MB}=\overrightarrow{0}$.

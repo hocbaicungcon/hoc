@@ -14,12 +14,17 @@ Sau khi thành thạo phép cộng và trừ hai véctơ, chúng ta tiếp tục
 Cho số thực $ k\ne 0 $ và $ \vec{a}\ne \vec{0} $. Tích của số $k $ với véctơ $ \vec{a}$ là một véctơ, kí hiệu $ k\vec{a} $, xác định như sau:
 
 - Cùng hướng với $ \vec{a} $ nếu $ k>0 $, ngược hướng với $ \vec{a} $ nếu $ k<0 $;
-- Độ dài bằng $ |k|.|\vec{a}|$.  Quy ước nếu $ k=0 $ hoặc $ \vec{a} = \vec{0} $ thì $ k\vec{a}=\vec{0}. $
+
+- Độ dài bằng $|k|\cdot|\vec{a}|$.  
+
+  Quy ước nếu $ k=0 $ hoặc $ \vec{a} = \vec{0} $ thì $ k\vec{a}=\vec{0}. $
 
 **Ví dụ 1.** Cho hình vuông $ ABCD $. Dựng điểm $ E, F $ biết 
 $$
 \overrightarrow{AE} = 2 \overrightarrow{ AB};\quad\overrightarrow{BF} =- \frac{3}{2} \overrightarrow{BC}.
 $$
+
+
 **Ví dụ 2.** Cho tam giác $ABC $ có $ M,N $ lần lượt là trung điểm $ AB, AC $. Tìm số $ k $ trong mỗi trường hợp sau:
 
 - $ \overrightarrow{AB} = k \overrightarrow{AM} $;
@@ -80,7 +85,7 @@ $$
 
 **Hướng dẫn.**
 
-- Gọi $ N $ là trung điểm $ AC. $ Ta có 
+1. Gọi $ N $ là trung điểm $ AC. $ Ta có 
   $$
    \overrightarrow{AB'}=\overrightarrow{AG}+\overrightarrow{GB'}=\frac{2}{3}\overrightarrow{AM}+\overrightarrow{BG}=\frac{2}{3}(\overrightarrow{AM}+\overrightarrow{BN}). 
   $$
@@ -93,7 +98,7 @@ $$
    \overrightarrow{CB'}=-\frac{1}{3}(\overrightarrow{AB}+ \overrightarrow{AC}).
   $$
   Có $ \overrightarrow{MB'}=\overrightarrow{MG}+\overrightarrow{GB'}=-\frac{1}{2}\overrightarrow{AG}+\overrightarrow{BG}=-\frac{1}{3}\overrightarrow{AM}+\frac{2}{3}\overrightarrow{BN}=\frac{1}{6} \overrightarrow{AC}-\frac{5}{6}\overrightarrow{AB}.   $
-- Ta có 
+2. Ta có 
   $$
    \overrightarrow{G'A}+\overrightarrow{G'C}=2\overrightarrow{G'N}=2(\overrightarrow{G'B}+\overrightarrow{BN})=\frac{10}{3}\overrightarrow{BN} 
   $$
@@ -114,8 +119,10 @@ tại $ K,H $. Đặt $ \overrightarrow{OA} = \vec{a}, \overrightarrow{OB} = \ve
 
 **Hướng dẫn.** Ta có 
 $$
+\begin{align}
 \overrightarrow{AM}&=\overrightarrow{AB}+\overrightarrow{BM}=\overrightarrow{AB}+\frac{2}{3}\overrightarrow{BC}=\overrightarrow{AB}+\frac{2}{3}(\overrightarrow{AC}-\overrightarrow{AB})\\
 &=\frac{1}{3}\overrightarrow{AB}+\frac{2}{3}\overrightarrow{AC}=\frac{1}{3}\overrightarrow{u}+\frac{2}{3}\overrightarrow{v}
+\end{align}
 $$
 **Ví dụ 11.** Cho tam giác $ABC $ có $ I $ thuộc cạnh $ BC $ sao cho $ 2CI= 3BI $,  $ J $ thuộc tia $ BC $ sao cho $ 5JB = 2JC $.
 
@@ -133,7 +140,7 @@ $$
 1. Có $ \overrightarrow{ IB}=3 \overrightarrow{ IC} \Leftrightarrow \overrightarrow{ AB}-\overrightarrow{ AI}=3(\overrightarrow{ AC}-\overrightarrow{ AI}) \Leftrightarrow \overrightarrow{ AI}=\frac{3}{2}\overrightarrow{ AC}-\frac{1}{2} \overrightarrow{ AB}.$
 2. Chỉ ra $ \overrightarrow{ AJ}=\frac{2}{3}\overrightarrow{AC} $ và $ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}. $ Do đó $ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}-\frac{2}{3}\overrightarrow{AC}. $
 3. Ta có $ \begin{cases} \overrightarrow{ AI}=\frac{3}{2}\overrightarrow{ AC}-\frac{1}{2} \overrightarrow{ AB}\\ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}-\frac{2}{3}\overrightarrow{AC}\end{cases}  \Leftrightarrow \begin{cases} 6\overrightarrow{AI}=9 \overrightarrow{AC}-3\overrightarrow{AB}\\12\overrightarrow{JK}=3\overrightarrow{AB}-8 \overrightarrow{AC}\end{cases}  
-  \Leftrightarrow \begin{cases} \overrightarrow{AB}=6\overrightarrow{AI}+12\overrightarrow{JK}\\  \overrightarrow{AC}=16\overrightarrow{AI}+36\overrightarrow{JK}\end{cases} $
+    \Leftrightarrow \begin{cases} \overrightarrow{AB}=6\overrightarrow{AI}+12\overrightarrow{JK}\\  \overrightarrow{AC}=16\overrightarrow{AI}+36\overrightarrow{JK}\end{cases} $
 
 Trừ từng vế được $ \overrightarrow{BC}= \overrightarrow{AC}-\overrightarrow{AB}=-10\overrightarrow{AI}-24\overrightarrow{JK}. $
 
@@ -163,7 +170,7 @@ $$
 $$
  \overrightarrow{BM}=k\overrightarrow{BC} \Leftrightarrow \overrightarrow{AM}-\overrightarrow{AB}=k(\overrightarrow{AC}-\overrightarrow{AB}) \Leftrightarrow \overrightarrow{AM}=(1-k)\overrightarrow{AB}+k\overrightarrow{AC}.
 $$
- 
+
 
 **Ví dụ 16.** Cho hai điểm $ A,B $ và hai số $ \alpha,\beta $ thỏa mãn $ \alpha+\beta\ne0 $.
 
@@ -173,9 +180,9 @@ $$
 **Hướng dẫn.**
 
 1. Ta có 
-  $$
+$$
    \alpha \overrightarrow{IA}+\beta \overrightarrow{IB}=\vec{0}  \Leftrightarrow \alpha \overrightarrow{IA}+\beta (\overrightarrow{IA}+\overrightarrow{AB})=\vec{0} \Leftrightarrow \overrightarrow{AI}=\frac{\beta}{\alpha+\beta}\overrightarrow{AB}
-  $$
+$$
   Do $ A,B $ cố định và hai số $ \alpha,\beta $ không đổi nên véctơ $ \frac{\beta}{\alpha+\beta}\overrightarrow{AB} $ không đổi. Vậy tồn tại duy nhất điểm $ I $ thỏa mãn $ \alpha \overrightarrow{IA}+\beta \overrightarrow{IB}=\vec{0}.$
 2. Ta có
    $$
@@ -196,11 +203,11 @@ $$
 **Hướng dẫn.**
 
 1. Gọi điểm $G$ là trọng tâm tam giác $ ABC $, thì $  \overrightarrow{MA}+ \overrightarrow{MB}+ \overrightarrow{MC}=3 \overrightarrow{MG}. $ Suy ra 
-  $$ \overrightarrow{MA}+\overrightarrow{MB}+\overrightarrow{MC}+3\overrightarrow{MD}=3( \overrightarrow{MG}+ \overrightarrow{MD})=6\overrightarrow{MI} $$
-  trong đó $I$ là trung điểm của $ GD. $
+    $$ \overrightarrow{MA}+\overrightarrow{MB}+\overrightarrow{MC}+3\overrightarrow{MD}=3( \overrightarrow{MG}+ \overrightarrow{MD})=6\overrightarrow{MI} $$
+    trong đó $I$ là trung điểm của $ GD. $
 2. Gọi $I$ là điểm thỏa mãn $  \overrightarrow{IA}+2 \overrightarrow{IB}=\vec{0} \Leftrightarrow \overrightarrow{AI}=\frac{2}{3}\overrightarrow{AB}. $	Khi đó $  \overrightarrow{MA}+2 \overrightarrow{MB}=( \overrightarrow{MI}+ \overrightarrow{IA})+2(\overrightarrow{MI}+\overrightarrow{IB})=3\overrightarrow{MI} $
 3. Gọi $I$ là điểm thỏa mãn $  2\overrightarrow{IA}+\overrightarrow{IB}-\overrightarrow{IC}=\vec{0} \Leftrightarrow 2\overrightarrow{IA}+\overrightarrow{CB}=\vec{0} \Leftrightarrow \overrightarrow{AI}=\frac{1}{2}\overrightarrow{CB}. $\\
-  Khi đó $  2\overrightarrow{MA}+ \overrightarrow{MB}- \overrightarrow{MC}=...=2 \overrightarrow{MI} $
+    Khi đó $  2\overrightarrow{MA}+ \overrightarrow{MB}- \overrightarrow{MC}=...=2 \overrightarrow{MI} $
 
 **Ví dụ 18.** Cho hình bình hành $ ABCD. $ Gọi $ I $ là trung điểm của $ CD. $ Lấy điểm $ M $ trên đoạn $ BI $ sao cho $ BM = 2MI. $ Chứnh minh ba điểm $ A,M,C $ thẳng hàng.
 
@@ -237,8 +244,10 @@ Theo giả thiết có $ \overrightarrow{AM}=k\overrightarrow{AB}, \overrightarr
 
 Gọi $ P,Q $ lần lượt là trung điểm của $ AC,BD $ thì
 $$
+\begin{align}
 \overrightarrow{PI}&=\frac{1}{2}(\overrightarrow{AM}+\overrightarrow{CN})=\frac{1}{2}k(\overrightarrow{AB}+\overrightarrow{CD})\\
 \overrightarrow{PQ}&=\frac{1}{2}(\overrightarrow{AB}+\overrightarrow{CD})
+\end{align}
 $$
 Suy ra $ \overrightarrow{PI}=k\overrightarrow{PQ} $ hay $ P,I,Q $ thẳng hàng. Mà  $ 0\le k\le1 $ nên $ I $ thuộc đoạn $ PQ. $
 
@@ -248,8 +257,10 @@ Vậy tập hợp các trung điểm của đoạn $ MN $ là đoạn $ PQ. $
 
 **Hướng dẫn.** Ta có 
 $$
+\begin{align}
 \overrightarrow{AR}&=\overrightarrow{AB}+\overrightarrow{AP}-\overrightarrow{AM}\\
 \overrightarrow{AS}&=\overrightarrow{AC}+\overrightarrow{AQ}-\overrightarrow{AM}
+\end{align}
 $$
 Nên $ 2\overrightarrow{AI}=\overrightarrow{AR}+\overrightarrow{AS}=\overrightarrow{AB}+ \overrightarrow{AC}-\overrightarrow{AM}. $
 
