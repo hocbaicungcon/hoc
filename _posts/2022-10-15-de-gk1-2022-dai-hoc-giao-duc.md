@@ -41,15 +41,15 @@ C. Bạn học lớp nào?
 
 D. Toán học thật thú vị!
 
-**Câu 5.** Liệt kê các phần tử của tập hợp $A=\left\\{x \in \mathbb{N} \mid(x+3)\left(3 x^2-4 x+1\right)=0\right\\}$.
+**Câu 5.** Liệt kê các phần tử của tập hợp $A=\big\{x \in \mathbb{N} \mid(x+3)\left(3 x^2-4 x+1\right)=0\big\}$.
 
-A. $A=\big\{-3 ; 1 ; \frac{1}{3}\big\}$.
+A. $A=\\{-3 ; 1 ; \frac{1}{3}\\}$.
 
-B. $A=\big\{-3 ; 1\big\}$.
+B. $A=\\{-3 ; 1\\}$.
 
-C. $A=\big\{1 ; \frac{1}{3}\big\}$.
+C. $A=\\{1 ; \frac{1}{3}\\}$.
 
-D. $A=\big\{1\big\}$.
+D. $A=\\{1\\}$.
 
 **Câu 6.** Trong các đẳng thức sau đây, đẳng thức nào đúng?
 
