@@ -16,31 +16,31 @@ Trong bài này, các em học sinh cần nắm vững ba dạng toán sau về 
 
 Các em cần chú ý những điều sau:
 
-- $ y= \tan x $ xác định $ \Leftrightarrow \cos x \ne 0 \Leftrightarrow x\ne \frac{\pi}{2} + k\pi$;
+- $ y= \tan x $ xác định $ \Leftrightarrow \cos x \ne 0 \Leftrightarrow x\ne \dfrac{\pi}{2} + k\pi$;
 -  $ y= \cot x $ xác định $ \Leftrightarrow \sin x \ne 0 \Leftrightarrow x\ne + k\pi$;
--  $\frac{A}{B}$ xác định khi $B\ne 0$, $\sqrt{A}$ xác định khi $A\ge 0$.
+-  $\dfrac{A}{B}$ xác định khi $B\ne 0$, $\sqrt{A}$ xác định khi $A\ge 0$.
 
 Chú ý: $ \sin x = 1, \sin x =-1, \cos x =1, \cos x =-1 $ khi nào?
 
 **Ví dụ 1.** Tìm tập xác định của các hàm số sau:
 
 
-- $y=\cos \frac{4}{x}$.
+- $y=\cos \dfrac{4}{x}$.
 - $y=\cos \sqrt{2 x}$.
-- $y=\frac{1+\cos x}{\sin x}$.
-- $y=\tan \left(5 x+\frac{2 \pi}{3}\right)$.
-- $y=\frac{2 \tan 2 x-5}{\sin 2 x+1}$
-- $y=\frac{\tan 2 x}{1+\cos ^2 x}$.
-- $y=\frac{\tan 2 x}{\sin x-1}$.
-- $y=\sqrt{\frac{\cos x+4}{\sin x+1}}$.
-- $y=\sqrt{\frac{\cos x-2}{1-\sin x}}$.
-- $y=\sqrt{\frac{2+\sin x}{\cos x+1}}$.
-- $y=\frac{\cot 2 x}{\sqrt{1-\cos ^2 x}}$.
-- $y=\sqrt{\frac{1-\sin x}{1+\cos x}}$.
-- $y=\frac{\sqrt{x}}{\sin \pi x}$.
-- $y=\frac{\cos 2 x}{1-\sin x}+\tan x$.
-- $y=\frac{x^2+1}{x \cos x}$.
-- $y=\frac{\tan 2 x}{\sqrt{\sin x+1}}$.
+- $y=\dfrac{1+\cos x}{\sin x}$.
+- $y=\tan \left(5 x+\dfrac{2 \pi}{3}\right)$.
+- $y=\dfrac{2 \tan 2 x-5}{\sin 2 x+1}$
+- $y=\dfrac{\tan 2 x}{1+\cos ^2 x}$.
+- $y=\dfrac{\tan 2 x}{\sin x-1}$.
+- $y=\sqrt{\dfrac{\cos x+4}{\sin x+1}}$.
+- $y=\sqrt{\dfrac{\cos x-2}{1-\sin x}}$.
+- $y=\sqrt{\dfrac{2+\sin x}{\cos x+1}}$.
+- $y=\dfrac{\cot 2 x}{\sqrt{1-\cos ^2 x}}$.
+- $y=\sqrt{\dfrac{1-\sin x}{1+\cos x}}$.
+- $y=\dfrac{\sqrt{x}}{\sin \pi x}$.
+- $y=\dfrac{\cos 2 x}{1-\sin x}+\tan x$.
+- $y=\dfrac{x^2+1}{x \cos x}$.
+- $y=\dfrac{\tan 2 x}{\sqrt{\sin x+1}}$.
 
 ### 2. Tính chẵn lẻ của hàm số lượng giác
 
@@ -57,14 +57,14 @@ Chú ý: $ \sin x = 1, \sin x =-1, \cos x =1, \cos x =-1 $ khi nào?
 **Ví dụ 2.** Xét tính chẵn lẻ của các hàm số sau:
 
 
-1. $y=f(x)=\tan x+\cot x$.
-2. $y=f(x)=\tan ^7 2 x \cdot \sin 5 x$.
-3. $y=f(x)=\sin \left(2 x+\frac{9 \pi}{2}\right)$.
-4. $y=f(x)=-2 \cos ^3\left(3 x+\frac{\pi}{2}\right)$.
-5. $y=f(x)=\sin ^3(3 x+5 \pi)+\cot (2 x-7 \pi)$.
-6. $y=f(x)=\cot (4 x+5 \pi) \tan (2 x-3 \pi)$.
-7. $y=f(x)=\sin \sqrt{9-x^2}$.
-8. $y=f(x)=\sin ^2 2 x+\cos 3 x$.
+1. $y=f(x)=\tan x+\cot x$
+2. $y=f(x)=\tan ^7 2 x \cdot \sin 5 x$
+3. $y=f(x)=\sin \left(2 x+\dfrac{9 \pi}{2}\right)$
+4. $y=f(x)=-2 \cos ^3\left(3 x+\dfrac{\pi}{2}\right)$
+5. $y=f(x)=\sin ^3(3 x+5 \pi)+\cot (2 x-7 \pi)$
+6. $y=f(x)=\cot (4 x+5 \pi) \tan (2 x-3 \pi)$
+7. $y=f(x)=\sin \sqrt{9-x^2}$
+8. $y=f(x)=\sin ^2 2 x+\cos 3 x$
 
 ### 3. GTLN GTNN của hàm số lượng giác
 Sử dụng tập giá trị của các hàm số lượng giác:
@@ -81,12 +81,12 @@ Chú ý cần đưa về một hàm số lượng giác để đánh giá.
 2. $y=\sqrt{1-\cos 4 x}$.
 3. $y=3 \sin ^2 2 x-4$.
 4. $y=4-5 \sin ^2 2 x \cos ^2 2 x$.
-5. $y=3-2|\sin 4 x|$.
+5. $y=3-2\|\sin 4 x\|$.
 6. $y=\sqrt{4-2 \sin ^5 2 x}-8$.
-7. $y=\frac{4}{1+3 \cos ^2 x}$
-8. $y=\frac{4}{\sqrt{5-2 \cos ^2 x \sin ^2 x}}$.
-9. $y=\frac{\sqrt{2}}{\sqrt{4-2 \sin ^2 3 x}}$.
-10. $y=\frac{3}{3-\sqrt{1-\cos x}}$.
+7. $y=\dfrac{4}{1+3 \cos ^2 x}$
+8. $y=\dfrac{4}{\sqrt{5-2 \cos ^2 x \sin ^2 x}}$.
+9. $y=\dfrac{\sqrt{2}}{\sqrt{4-2 \sin ^2 3 x}}$.
+10. $y=\dfrac{3}{3-\sqrt{1-\cos x}}$.
 
 **Ví dụ 4.** Tìm giá trị lớn nhất, giá trị nhỏ nhất của hàm số:
 
