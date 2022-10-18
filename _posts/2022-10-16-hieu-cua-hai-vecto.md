@@ -32,10 +32,13 @@ Nhận xét:
 $$
 \overrightarrow{IA} + \overrightarrow{IB} = \vec{0}.
 $$
+
+
 **Ví dụ 3.** Cho hình bình hành $ABCD$ có tâm $O$, chứng minh rằng:
 $$
 \overrightarrow{OA}+\overrightarrow{OB}+\overrightarrow{OC}+\overrightarrow{OD}=\vec{0}.
 $$
+
 
 
 **Ví dụ 4.** Cho tam giác $ABC$ có trọng tâm $G$. Gọi $M$ là trung điểm $BC$ và $D$
