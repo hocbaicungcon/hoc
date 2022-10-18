@@ -31,9 +31,15 @@ Phương pháp: Ta chỉ ra hai điểm chung khác nhau} của hai mặt phẳn
 
 **Ví dụ 7.** Cho tứ diện $ABCD$ có $ I,J $ lần lượt là trung điểm của $ AD,BC. $ Tìm giao tuyến của hai mặt phẳng $ (IBC) $ và $ (JAD). $ Gọi $ M,N $ là hai điểm trên cạnh $ AB,AC. $ Xác định giao tuyến của $ (IBC) $ và $ (DMN)$.
 
-**Ví dụ 8.** Cho hình chóp $ S.ABCD $ có đáy là hình bình hành. Gọi $ M,N,P $ lần lượt là trung điểm $BC,CD,SC $. Tìm giao tuyến của mặt phẳng $ (MNP) $ với các mặt phẳng $ (ABCD),(SAB),(SAD)$ và $ (SAC) $.
+**Ví dụ 8.** Cho tứ diện $ SABC $. Gọi $ M, N $ lần lượt là hai điểm trên cạnh $ AB $ và $ BC $ sao cho $ MN $ không	song song với $ AC $. Tìm giao tuyến của các mặt phẳng $ (SAB) $ và $ (ABC) $; $ (SMN) $ và $ (SAC) $; $ (SAN) $ và $ (SMC) $.
 
-**Ví dụ 9.** Cho hình chóp $ S.ABCD $ có đáy là hình bình hành tâm $ O. $ Gọi $ M,N,P $ lần lượt là trung điểm $BC,CD,SO $. Tìm giao tuyến của mặt phẳng $ (MNP) $ với các mặt phẳng $ (SAB),(SAD),(SBC) $ và $ (SCD).$
+**Ví dụ 9.** Tứ diện $ SABC $. Gọi $ K, M $ lần lượt là hai điểm trên cạnh $ SA $ và $ SC $ sao cho $ KM $ không song song $ AC $. Gọi $ N $ là trung điểm của cạnh $ BC $. Tìm giao tuyến của các mặt phẳng $ (SAN) $ và $ (ABM) $; $ (BKM) $ và $ (ABC) $.
+
+**Ví dụ 10.** Cho hình chóp $ S.ABCD $ có đáy $ ABCD $ là hình bình hành tâm $ O $. Lấy điểm $ M $ trên cạnh $ SA $, $ N $ là trung điểm $ CD $. Tìm giao tuyến của các mặt phẳng $ (SAC) $ và $ (SBD) $; $ (BMN) $ và $ (SAD) $; $ (MCD) $ và $ (SBD) $.
+
+**Ví dụ 11.** Cho hình chóp $ S.ABCD $ có đáy là hình bình hành. Gọi $ M,N,P $ lần lượt là trung điểm $BC,CD,SC $. Tìm giao tuyến của mặt phẳng $ (MNP) $ với các mặt phẳng $ (ABCD),(SAB),(SAD)$ và $ (SAC) $.
+
+**Ví dụ 12.** Cho hình chóp $ S.ABCD $ có đáy là hình bình hành tâm $ O. $ Gọi $ M,N,P $ lần lượt là trung điểm $BC,CD,SO $. Tìm giao tuyến của mặt phẳng $ (MNP) $ với các mặt phẳng $ (SAB),(SAD),(SBC) $ và $ (SCD).$
 
 ### Bài toán 2. Tìm giao điểm của đường thẳng $d$ và mặt phẳng $ (P) $.
 
