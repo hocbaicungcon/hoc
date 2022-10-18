@@ -74,6 +74,8 @@ $ G $ là trọng tâm tam giác $ABC $ khi và chỉ khi $ \overrightarrow{MA} 
 $$
  \overrightarrow{BD}-\overrightarrow{BA}=\overrightarrow{OC}-\overrightarrow{OB}, \overrightarrow{BC}-\overrightarrow{BD}+\overrightarrow{BA}=\vec{0}. 
 $$
+
+
 **Ví dụ 8.** Cho tam giác $ ABC $ với $ G $ là trọng tâm. Gọi $ B' $ đối xứng với $ B $ qua $ G,G' $ đối xứng với $ G $ qua $ B $ và $ M $ là trung điểm $ BC. $ Chứng minh rằng: 
 
 
@@ -97,7 +99,13 @@ $$
 $$
    \overrightarrow{CB'}=-\frac{1}{3}(\overrightarrow{AB}+ \overrightarrow{AC}).
 $$
-  Có $ \overrightarrow{MB'}=\overrightarrow{MG}+\overrightarrow{GB'}=-\frac{1}{2}\overrightarrow{AG}+\overrightarrow{BG}=-\frac{1}{3}\overrightarrow{AM}+\frac{2}{3}\overrightarrow{BN}=\frac{1}{6} \overrightarrow{AC}-\frac{5}{6}\overrightarrow{AB}.   $
+  Có 
+$$
+\begin{align}
+ \overrightarrow{MB'}&=\overrightarrow{MG}+\overrightarrow{GB'}\\&=-\frac{1}{2}\overrightarrow{AG}+\overrightarrow{BG}\\&=-\frac{1}{3}\overrightarrow{AM}+\frac{2}{3}\overrightarrow{BN}\\&=\frac{1}{6} \overrightarrow{AC}-\frac{5}{6}\overrightarrow{AB}.   
+\end{align}
+$$
+
 2. Ta có 
 $$
    \overrightarrow{G'A}+\overrightarrow{G'C}=2\overrightarrow{G'N}=2(\overrightarrow{G'B}+\overrightarrow{BN})=\frac{10}{3}\overrightarrow{BN} 
@@ -120,8 +128,11 @@ tại $ K,H $. Đặt $ \overrightarrow{OA} = \vec{a}, \overrightarrow{OB} = \ve
 **Hướng dẫn.** Ta có 
 $$
 \begin{align}
-\overrightarrow{AM}&=\overrightarrow{AB}+\overrightarrow{BM}=\overrightarrow{AB}+\frac{2}{3}\overrightarrow{BC}=\overrightarrow{AB}+\frac{2}{3}(\overrightarrow{AC}-\overrightarrow{AB})\\
-&=\frac{1}{3}\overrightarrow{AB}+\frac{2}{3}\overrightarrow{AC}=\frac{1}{3}\overrightarrow{u}+\frac{2}{3}\overrightarrow{v}
+\overrightarrow{AM}&=\overrightarrow{AB}+\overrightarrow{BM}\\
+&=\overrightarrow{AB}+\frac{2}{3}\overrightarrow{BC}\\
+&=\overrightarrow{AB}+\frac{2}{3}(\overrightarrow{AC}-\overrightarrow{AB})\\
+&=\frac{1}{3}\overrightarrow{AB}+\frac{2}{3}\overrightarrow{AC}\\
+&=\frac{1}{3}\overrightarrow{u}+\frac{2}{3}\overrightarrow{v}
 \end{align}
 $$
 **Ví dụ 11.** Cho tam giác $ABC $ có $ I $ thuộc cạnh $ BC $ sao cho $ 2CI= 3BI $,  $ J $ thuộc tia $ BC $ sao cho $ 5JB = 2JC $.
@@ -139,8 +150,15 @@ $$
 
 1. Có $ \overrightarrow{ IB}=3 \overrightarrow{ IC} \Leftrightarrow \overrightarrow{ AB}-\overrightarrow{ AI}=3(\overrightarrow{ AC}-\overrightarrow{ AI}) \Leftrightarrow \overrightarrow{ AI}=\frac{3}{2}\overrightarrow{ AC}-\frac{1}{2} \overrightarrow{ AB}.$
 2. Chỉ ra $ \overrightarrow{ AJ}=\frac{2}{3}\overrightarrow{AC} $ và $ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}. $ Do đó $ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}-\frac{2}{3}\overrightarrow{AC}. $
-3. Ta có $ \begin{cases} \overrightarrow{ AI}=\frac{3}{2}\overrightarrow{ AC}-\frac{1}{2} \overrightarrow{ AB}\\ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}-\frac{2}{3}\overrightarrow{AC}\end{cases}  \Leftrightarrow \begin{cases} 6\overrightarrow{AI}=9 \overrightarrow{AC}-3\overrightarrow{AB}\\12\overrightarrow{JK}=3\overrightarrow{AB}-8 \overrightarrow{AC}\end{cases}  
-    \Leftrightarrow \begin{cases} \overrightarrow{AB}=6\overrightarrow{AI}+12\overrightarrow{JK}\\  \overrightarrow{AC}=16\overrightarrow{AI}+36\overrightarrow{JK}\end{cases} $
+3. Ta có 
+    $$
+    \begin{align}
+    & \begin{cases} \overrightarrow{ AI}=\frac{3}{2}\overrightarrow{ AC}-\frac{1}{2} \overrightarrow{ AB}\\ \overrightarrow{AK}=\frac{1}{4}\overrightarrow{AB}-\frac{2}{3}\overrightarrow{AC}\end{cases}\\
+     \Leftrightarrow & \begin{cases} 6\overrightarrow{AI}=9 \overrightarrow{AC}-3\overrightarrow{AB}\\12\overrightarrow{JK}=3\overrightarrow{AB}-8 \overrightarrow{AC}\end{cases} \\
+    \Leftrightarrow & \begin{cases} \overrightarrow{AB}=6\overrightarrow{AI}+12\overrightarrow{JK}\\  \overrightarrow{AC}=16\overrightarrow{AI}+36\overrightarrow{JK}\end{cases} 
+    \end{align}
+    $$
+    
 
 Trừ từng vế được $ \overrightarrow{BC}= \overrightarrow{AC}-\overrightarrow{AB}=-10\overrightarrow{AI}-24\overrightarrow{JK}. $
 
@@ -186,7 +204,11 @@ $$
   Do $ A,B $ cố định và hai số $ \alpha,\beta $ không đổi nên véctơ $ \frac{\beta}{\alpha+\beta}\overrightarrow{AB} $ không đổi. Vậy tồn tại duy nhất điểm $ I $ thỏa mãn $ \alpha \overrightarrow{IA}+\beta \overrightarrow{IB}=\vec{0}.$
 2. Ta có
    $$
-    \alpha \overrightarrow{MA}+\beta \overrightarrow{MB}=\alpha(\overrightarrow{MI}+\overrightarrow{IA})+\beta(\overrightarrow{MI}+\overrightarrow{IB})=(\alpha+\beta)\overrightarrow{MI} +\alpha \overrightarrow{IA}+\beta \overrightarrow{IB}=(\alpha+\beta)\overrightarrow{MI}. 
+   \begin{align}
+   \alpha \overrightarrow{MA}+\beta \overrightarrow{MB}&=\alpha(\overrightarrow{MI}+\overrightarrow{IA})+\beta(\overrightarrow{MI}+\overrightarrow{IB})\\
+   &=(\alpha+\beta)\overrightarrow{MI} +\alpha \overrightarrow{IA}+\beta \overrightarrow{IB}\\
+   &=(\alpha+\beta)\overrightarrow{MI}.
+   \end{align}
    $$
    
 
