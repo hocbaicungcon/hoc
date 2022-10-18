@@ -4,7 +4,7 @@ title:  "Phương trình lượng giác thường gặp"
 author: sloth
 categories: [ Toán 11, Lượng giác ]
 image: assets/images/fractal.webp
-tags: [sticky]
+tags: [featured]
 ---
 
 Phương trình lượng giác thường gặp bao gồm 3 dạng phương trình. Đó là phương trình bậc nhất, bậc hai, bậc ba đối với một hàm số lượng giác; phương trình bậc nhất đối với $ \sin x$ và $ \cos x$; phương trình thuần nhất bậc hai đối  với $ \sin x$ và $ \cos x$. Thành thạo ba dạng phương trình này thì các em học sinh có thể tự tin giành được điểm khá trong các kì thi. 

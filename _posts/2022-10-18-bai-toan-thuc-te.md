@@ -4,7 +4,7 @@ title:  "Ứng dụng hệ bất phương trình bậc nhất hai ẩn vào bài
 author: sloth
 categories: [ Toán 10, Đại số ]
 image: assets/images/maths.webp
-tags: [bất phương trình, thực tế]
+tags: [featured, bất phương trình, thực tế]
 ---
 
 Sau khi thành thạo cách biểu diễn miền nghiệm của một bất phương trình bậc nhất hai ẩn, một hệ bất phương trình bậc nhất hai ẩn trên hệ trục tọa độ, các em cần luyện tập cho thành thạo dạng toán **Ứng dụng hệ bất phương trình bậc nhất hai ẩn vào bài toán thực tế**.

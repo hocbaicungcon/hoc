@@ -4,7 +4,7 @@ title:  "Tích của một số với một véctơ"
 author: sloth
 categories: [ Toán 10, Hình học]
 image: assets/images/hinh_hoc.webp
-tags: [sticky, véctơ]
+tags: [featured, véctơ]
 ---
 
 Sau khi thành thạo phép cộng và trừ hai véctơ, chúng ta tiếp tục tìm hiểu phép nhân một số thực với một véctơ. 

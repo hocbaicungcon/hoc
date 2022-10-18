@@ -4,7 +4,7 @@ title:  "Bài tập Đại cương về đường thẳng và mặt phẳng"
 author: sloth
 categories: [ Toán 11, Hình học ]
 image: assets/images/hinh_hoc.webp
-tags: [sticky]
+tags: [featured]
 ---
 Sau khi biết các quy ước vẽ hình biểu diễn của hình học không gian và các tính chất thừa nhận, các em cần luyện tập thật thành thạo 3 bài toán tìm giao tuyến của hai mặt phẳng, tìm giao điểm của đường thẳng và mặt phẳng, tìm thiết diện của hình chóp khi cắt bởi một mặt phẳng.
 
