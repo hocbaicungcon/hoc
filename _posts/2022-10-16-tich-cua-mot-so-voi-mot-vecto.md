@@ -15,7 +15,7 @@ Cho số thực $ k\ne 0 $ và $ \vec{a}\ne \vec{0} $. Tích của số $k $ v�
 
 - Cùng hướng với $ \vec{a} $ nếu $ k>0 $, ngược hướng với $ \vec{a} $ nếu $ k<0 $;
 
-- Độ dài bằng $|k|\cdot|\vec{a}|$.  
+- Độ dài bằng $\|k\|\cdot\|\vec{a}\|$.  
 
   Quy ước nếu $ k=0 $ hoặc $ \vec{a} = \vec{0} $ thì $ k\vec{a}=\vec{0}. $
 
@@ -86,22 +86,22 @@ $$
 **Hướng dẫn.**
 
 1. Gọi $ N $ là trung điểm $ AC. $ Ta có 
-  $$
+$$
    \overrightarrow{AB'}=\overrightarrow{AG}+\overrightarrow{GB'}=\frac{2}{3}\overrightarrow{AM}+\overrightarrow{BG}=\frac{2}{3}(\overrightarrow{AM}+\overrightarrow{BN}). 
-  $$
+$$
   Mà $ 2\overrightarrow{AM}=\overrightarrow{AB}+ \overrightarrow{AC},2\overrightarrow{BN}=\overrightarrow{BA}+\overrightarrow{BC} $ nên 
-  $$
+$$
    \overrightarrow{AB'}=\frac{2}{3} \overrightarrow{AC}-\frac{1}{3}\overrightarrow{AB}. 
-  $$
+$$
   Tương tự có 
-  $$
+$$
    \overrightarrow{CB'}=-\frac{1}{3}(\overrightarrow{AB}+ \overrightarrow{AC}).
-  $$
+$$
   Có $ \overrightarrow{MB'}=\overrightarrow{MG}+\overrightarrow{GB'}=-\frac{1}{2}\overrightarrow{AG}+\overrightarrow{BG}=-\frac{1}{3}\overrightarrow{AM}+\frac{2}{3}\overrightarrow{BN}=\frac{1}{6} \overrightarrow{AC}-\frac{5}{6}\overrightarrow{AB}.   $
 2. Ta có 
-  $$
+$$
    \overrightarrow{G'A}+\overrightarrow{G'C}=2\overrightarrow{G'N}=2(\overrightarrow{G'B}+\overrightarrow{BN})=\frac{10}{3}\overrightarrow{BN} 
-  $$
+$$
   Mà $ \overrightarrow{G'B}=\overrightarrow{BG}=\frac{2}{3}\overrightarrow{BN} \Rightarrow 5\overrightarrow{G'B}=\frac{10}{3}\overrightarrow{BN}. $ Từ đó suy ra điều phải chứng minh.
 
 ## 3. Điều kiện hai véctơ cùng phương, ba điểm thẳng hàng
