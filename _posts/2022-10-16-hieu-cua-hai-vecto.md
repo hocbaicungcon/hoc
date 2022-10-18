@@ -28,8 +28,10 @@ Nhận xét:
 
 -   $\overrightarrow{AB}$ và $\overrightarrow{BA}$ là hai véctơ đối nhau, tức là $$\overrightarrow{AB} = - \overrightarrow{BA}.$$
 
-**Ví dụ 2.** Cho đoạn thẳng $AB$. Chứng minh rằng $I$ là trung điểm $AB$ khi và chỉ khi $\overrightarrow{IA} + \overrightarrow{IB} = \vec{0}$.
-
+**Ví dụ 2.** Cho đoạn thẳng $AB$. Chứng minh rằng $I$ là trung điểm $AB$ khi và chỉ khi 
+$$
+\overrightarrow{IA} + \overrightarrow{IB} = \vec{0}.
+$$
 **Ví dụ 3.** Cho hình bình hành $ABCD$ có tâm $O$, chứng minh rằng:
 $$
 \overrightarrow{OA}+\overrightarrow{OB}+\overrightarrow{OC}+\overrightarrow{OD}=\vec{0}.
@@ -49,12 +51,15 @@ $$
 \vec{a}-\vec{b}=\vec{a}+(-\vec{b}).
 $$
 
-
 **Ví dụ 5.** Cho hình chữ nhật $ABCD$ có $AB=3$, $AD=4.$ Dựng và tính độ dài của
-véctơ $\overrightarrow{AB} - \overrightarrow{AD}, \quad \overrightarrow{CA} - \overrightarrow{AB}.$
-
-**Ví dụ 6.** Cho tam giác đều $ABC$ có cạnh bằng $a$ và $I$ là trung điểm của $BC$. Tính độ dài của các véctơ $\overrightarrow{AB}-\overrightarrow{AC},\quad \overrightarrow{BA}-\overrightarrow{BI}.$
-
+véctơ 
+$$
+\overrightarrow{AB} - \overrightarrow{AD}, \quad \overrightarrow{CA} - \overrightarrow{AB}.
+$$
+**Ví dụ 6.** Cho tam giác đều $ABC$ có cạnh bằng $a$ và $I$ là trung điểm của $BC$. Tính độ dài của các véctơ 
+$$
+\overrightarrow{AB}-\overrightarrow{AC},\quad \overrightarrow{BA}-\overrightarrow{BI}.
+$$
 **Ví dụ 7.** Cho bốn điểm $A,B,C,D$. Chứng minh rằng:
 $$
 \overrightarrow{AB}-\overrightarrow{CD}=\overrightarrow{AC}-\overrightarrow{BD}.
