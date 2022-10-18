@@ -55,22 +55,27 @@ $$
 $$
 
 **Ví dụ 5.** Cho hình chữ nhật $ABCD$ có $AB=3$, $AD=4.$ Dựng và tính độ dài của
-véctơ 
-$$
-\overrightarrow{AB} - \overrightarrow{AD}, \quad \overrightarrow{CA} - \overrightarrow{AB}.
-$$
+véctơ $$\overrightarrow{AB} - \overrightarrow{AD}, \quad \overrightarrow{CA} - \overrightarrow{AB}.$$
+
+
+
 **Ví dụ 6.** Cho tam giác đều $ABC$ có cạnh bằng $a$ và $I$ là trung điểm của $BC$. Tính độ dài của các véctơ 
 $$
 \overrightarrow{AB}-\overrightarrow{AC},\quad \overrightarrow{BA}-\overrightarrow{BI}.
 $$
+
+
 **Ví dụ 7.** Cho bốn điểm $A,B,C,D$. Chứng minh rằng:
 $$
 \overrightarrow{AB}-\overrightarrow{CD}=\overrightarrow{AC}-\overrightarrow{BD}.
 $$
+
+
 **Ví dụ 8.** Cho tứ giác $ABCD$ có $O$ là trung điểm $AB$. Chứng minh rằng
 $$
 \overrightarrow{OD} + \overrightarrow{OC} =\overrightarrow{AD}+\overrightarrow{BC}.
 $$
+
 
 
 **Ví dụ 9.** Tam giác $ABC$ có $M,N,P$ lần lượt là trung điểm của $BC, CA, AB$ và
