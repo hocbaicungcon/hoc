@@ -4,7 +4,7 @@ title:  "Bài tập Hàm số lượng giác"
 author: sloth
 categories: [ Toán 11, Lượng giác ]
 image: assets/images/hinh_hoc.webp
-tags: [sticky]
+tags: [hàm số, gtnn, gtln, hàm số chẵn, hàm số lẻ]
 ---
 Trong bài này, các em học sinh cần nắm vững ba dạng toán sau về hàm số lượng giác:
 

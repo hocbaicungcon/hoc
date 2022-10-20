@@ -4,7 +4,7 @@ title:  "Hiệu của hai véctơ"
 author: sloth
 categories: [ Toán 10, Hình học]
 image: assets/images/hinh_hoc.webp
-tags: [sticky, véctơ]
+tags: [véctơ]
 ---
 
 Sau khi thành thạo phép cộng hai véctơ, chúng ta tiếp tục tìm hiểu phép trừ hai véctơ. 

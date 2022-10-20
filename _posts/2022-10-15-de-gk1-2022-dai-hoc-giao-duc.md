@@ -4,7 +4,6 @@ title:  "Đề thi giữa kì 1 Toán 10 năm 2022 trường ĐH Giáo dục"
 author: sloth
 categories: [ Toán 10, Đề thi ]
 image: assets/images/maths.webp
-tags: [featured]
 ---
 
 ### I. TRẮC NGHIỆM
