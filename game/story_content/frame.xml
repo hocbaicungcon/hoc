@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Game WeloveMath " />
+              <option name="title_text" value="Game WeloveMath." />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="" />
+              <option name="time_format" value="elapsed" />
             </options>
           </option>
           <option name="video_enabled" value="false">
@@ -1119,94 +1119,94 @@
   </colorschemes>
   <string_tables>
     <string_table name="pxabnsnfns10111100101">
-      <string id="acc_active">hoạt động</string>
-      <string id="acc_closed_captions">Phụ đề chi tiết. Ấn phím cách để bật và tắt phụ đề.</string>
-      <string id="acc_definition">định nghĩa</string>
-      <string id="acc_finish">hoàn tất</string>
-      <string id="acc_locked">đã khóa</string>
-      <string id="acc_next">tiếp theo</string>
-      <string id="acc_pause">tạm dừng</string>
-      <string id="acc_play">phát</string>
-      <string id="acc_previous">trước</string>
-      <string id="acc_replay">phát lại</string>
-      <string id="acc_resources">tài nguyên</string>
-      <string id="acc_search_input">tìm kiếm</string>
-      <string id="acc_skipnavigation">Lên đầu trang</string>
-      <string id="acc_submit">gửi</string>
-      <string id="acc_submitall">gửi tất cả</string>
-      <string id="acc_visited">đã truy cập</string>
-      <string id="acc_volume">âm lượng</string>
+      <string id="three_image_items">mục</string>
+      <string id="three_image_viewed">đã xem</string>
+      <string id="three_image_of">trong số</string>
+      <string id="three_image_item">mục</string>
       <string id="accessible_text">Văn bản xem được</string>
-      <string id="acctext_shortcut">Bật/tắt văn bản xem được</string>
-      <string id="action">Tác vụ</string>
+      <string id="keyboardshortcuts_lower">Phím tắt bàn phím</string>
+      <string id="zoom_to_fit">Thu phóng cho vừa</string>
+      <string id="acc_active">hoạt động</string>
       <string id="alt_key">Alt</string>
-      <string id="bio">Sinh học</string>
       <string id="check_include">Chọn để bao gồm</string>
       <string id="clear">Xóa và quay lại Trình đơn</string>
       <string id="close">Đóng</string>
-      <string id="closed_captions">Phụ đề</string>
+      <string id="acc_closed_captions">Phụ đề chi tiết. Ấn phím cách để bật và tắt phụ đề.</string>
       <string id="closed_captions_tip">Chuyển đổi phụ đề</string>
-      <string id="closedcaptions_shortcut">Bật/tắt phụ đề</string>
       <string id="continue">Tiếp tục</string>
       <string id="continueresponsive">Tiếp tục</string>
       <string id="ctrl_key">Ctrl</string>
-      <string id="definition">Định nghĩa</string>
-      <string id="desktop_start">Bắt đầu khóa học</string>
-      <string id="disabled_orientation">Vui lòng xoay thiết bị của bạn</string>
       <string id="enable_keyboardshortcuts">Bật phím tắt</string>
       <string id="enter_key">Enter</string>
       <string id="exit">Thoát</string>
       <string id="filter">Bộ lọc</string>
       <string id="finish">HOÀN TẤT</string>
+      <string id="acc_finish">hoàn tất</string>
+      <string id="definition">Định nghĩa</string>
+      <string id="acc_definition">định nghĩa</string>
       <string id="glossary">Chú giải thuật ngữ</string>
+      <string id="terms">Cụm từ</string>
+      <string id="action">Tác vụ</string>
       <string id="keyboardshortcuts">Phím tắt bàn phím</string>
-      <string id="keyboardshortcuts_lower">Phím tắt bàn phím</string>
-      <string id="mobile_start">Bắt đầu khóa học</string>
-      <string id="more_info">Thông tin thêm</string>
+      <string id="shortcuthelp">Liệt kê phím tắt bàn phím</string>
       <string id="mute_shortcut">Tắt tiếng / Bật tiếng</string>
+      <string id="next_shortcut">Slide tiếp theo</string>
+      <string id="playpause_shortcut">Phát / Tạm dừng</string>
+      <string id="previous_shortcut">Slide trước</string>
+      <string id="replay_shortcut">Phát lại slide</string>
+      <string id="shortcut">Phím tắt</string>
+      <string id="submit_shortcut">Gửi slide</string>
+      <string id="acctext_shortcut">Bật/tắt văn bản xem được</string>
+      <string id="closedcaptions_shortcut">Bật/tắt phụ đề</string>
+      <string id="togglezoom">Chuyển đổi thu phóng để khớp</string>
+      <string id="outline">Trình đơn</string>
+      <string id="disabled_orientation">Vui lòng xoay thiết bị của bạn</string>
       <string id="mute_tip">Tắt tiếng</string>
       <string id="next">TIẾP THEO</string>
-      <string id="next_shortcut">Slide tiếp theo</string>
+      <string id="acc_next">tiếp theo</string>
       <string id="next_slide_tip">Slide tiếp theo</string>
-      <string id="outline">Trình đơn</string>
+      <string id="transcript_chk">Ghi chú</string>
+      <string id="transcript">Ghi chú</string>
+      <string id="bio">Sinh học</string>
+      <string id="more_info">Thông tin thêm</string>
+      <string id="closed_captions">Phụ đề</string>
+      <string id="acc_pause">tạm dừng</string>
       <string id="pause_tip">Tạm dừng</string>
+      <string id="acc_play">phát</string>
       <string id="play_tip">Phát</string>
-      <string id="playpause_shortcut">Phát / Tạm dừng</string>
+      <string id="send_an_email">Gửi email</string>
       <string id="prev">TRƯỚC</string>
-      <string id="previous_shortcut">Slide trước</string>
+      <string id="acc_previous">trước</string>
       <string id="previous_slide_tip">Slide trước</string>
       <string id="question_list">Danh sách Câu hỏi</string>
-      <string id="replay_shortcut">Phát lại slide</string>
       <string id="replay_tip">Phát lại</string>
+      <string id="acc_replay">phát lại</string>
       <string id="resources">Tài nguyên</string>
+      <string id="acc_resources">tài nguyên</string>
       <string id="restart">Bắt đầu lại</string>
       <string id="resume">Tiếp tục lại</string>
+      <string id="acc_locked">đã khóa</string>
+      <string id="acc_search_input">tìm kiếm</string>
+      <string id="search_toggle">Tìm kiếm</string>
+      <string id="sidebar_toggle">Bật/tắt thanh bên</string>
+      <string id="desktop_start">Bắt đầu khóa học</string>
+      <string id="mobile_start">Bắt đầu khóa học</string>
+      <string id="acc_visited">đã truy cập</string>
       <string id="search">Đang tìm kiếm…</string>
       <string id="search_in">Tìm kiếm trong:</string>
       <string id="search_results">Kết quả Tìm kiếm</string>
-      <string id="search_toggle">Tìm kiếm</string>
-      <string id="send_an_email">Gửi email</string>
       <string id="settings_tip">Cài đặt</string>
       <string id="shift_key">Shift</string>
-      <string id="shortcut">Phím tắt</string>
-      <string id="shortcuthelp">Liệt kê phím tắt bàn phím</string>
-      <string id="sidebar_toggle">Bật/tắt thanh bên</string>
+      <string id="acc_skipnavigation">Lên đầu trang</string>
       <string id="slide_text_chk">Văn bản Bản chiếu</string>
       <string id="spacebar_key">Dấu cách</string>
-      <string id="submit">GỬI</string>
-      <string id="submit_shortcut">Gửi slide</string>
-      <string id="submit_tip">Gửi</string>
       <string id="submitall">GỬI TẤT CẢ</string>
-      <string id="terms">Cụm từ</string>
-      <string id="three_image_item">mục</string>
-      <string id="three_image_items">mục</string>
-      <string id="three_image_of">trong số</string>
-      <string id="three_image_viewed">đã xem</string>
-      <string id="togglezoom">Chuyển đổi thu phóng để khớp</string>
-      <string id="transcript">Ghi chú</string>
-      <string id="transcript_chk">Ghi chú</string>
+      <string id="acc_submitall">gửi tất cả</string>
+      <string id="submit">GỬI</string>
+      <string id="acc_submit">gửi</string>
+      <string id="submit_tip">Gửi</string>
       <string id="unmute_tip">Bật tiếng</string>
-      <string id="zoom_to_fit">Thu phóng cho vừa</string>
+      <string id="acc_volume">âm lượng</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1264,14 +1264,14 @@
         </slidelink>
         <slidelink slideid="_player.5mQ9hld2h1Q" displaytext="Truy tim kho bau" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5mQ9hld2h1Q.6NKm3trDAHB" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5mQ9hld2h1Q.5uEeBy53w8w" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5mQ9hld2h1Q.6NKm3trDAHB" displaytext="Giao diện chính" expand="false" type="slide" />
+            <slidelink slideid="_player.5mQ9hld2h1Q.5uEeBy53w8w" displaytext="kho bấu" expand="false" type="slide" />
             <slidelink slideid="_player.5mQ9hld2h1Q.6PdYpv1ymDQ" displaytext="CHỨNG NHẬN SIÊU TOÁN" expand="false" type="slide" />
             <slidelink slideid="_player.5mQ9hld2h1Q.6GWy4sFgwld" displaytext="CHỨNG NHẬN SIÊU TOÁN" expand="false" type="slide" />
-            <slidelink slideid="_player.5mQ9hld2h1Q.5w9Don20Htd" displaytext="Nếu viết thêm chữ số 0 vào giữa các chữ số của một số tự nhiên có hai chữ số thì ta được số mới gấp số ban đầu 7 lần. Tìm số ban đầu?&#xD;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.5mQ9hld2h1Q.6OqKtme1yK5" displaytext=" Tìm một số tự nhiên có hai chữ số biết rằng nếu lấy số đó chia cho hiệu chữ số hàng chục và hàng đơn vị thì được số mới có thương là 18 và dư 4?&#xD;&#xA;" expand="false" type="slide" />
-            <slidelink slideid="_player.5mQ9hld2h1Q.6cQO8lcVyvl" displaytext="Tuấn và Hà mỗi người mua một số hộp bút chì màu, trong mỗi hộp đều có từ hai chiếc bút trở lên và số bút trong mỗi hộp là như nhau. Tính ra Tuấn mua 25 bút, Hà mua 20 bút. Hỏi mỗi hộp bút chì màu có bao nhiêu chiếc?" expand="false" type="slide" />
-            <slidelink slideid="_player.5mQ9hld2h1Q.5xzb99eFqir" displaytext="Lớp 6a xếp hàng tập thể dục. Tính số học sinh của lớp 6a biết rằng khi xếp thành 2 hàng, 3 hàng, 4 hàng thì đều vừa đủ và số học sinh của lớp nằm trong khoảng từ 40 đến 50 bạn." expand="false" type="slide" />
+            <slidelink slideid="_player.5mQ9hld2h1Q.5w9Don20Htd" displaytext="câu 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5mQ9hld2h1Q.6OqKtme1yK5" displaytext="câu 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5mQ9hld2h1Q.6cQO8lcVyvl" displaytext="câu 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5mQ9hld2h1Q.5xzb99eFqir" displaytext="câu 1" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5wJ0RDqLhgG" displaytext="Giai cuu Bach Tuyet" expand="true" type="slide">
@@ -1319,7 +1319,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Lý thuyết số tự nhiên.docx" image="story_content/6cOiVNhhgV6.png" title="L&amp;#253; thuyết số tự nhi&amp;#234;n" />
+      <resource url="story_content/external_files/Lý thuyết số tự nhiên.docx" image="story_content/6Gw9TIRH5HM.png" title="L&amp;#253; thuyết số tự nhi&amp;#234;n" />
     </resources>
   </resource_data>
   <transcript_data />
